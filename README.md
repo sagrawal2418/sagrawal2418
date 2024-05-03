@@ -7,7 +7,7 @@
 - 🌍 Passionate about **travelling** and trying out **exotic cuisines** around the world.
 - 👯 I’m looking to collaborate on **Android projects** that are focused on **machine learning** and **IoT** integrations.
 - 💬 Ask me about **Android development**, **Material Design**, and **cloud integration** for mobile apps.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sagrawal2418)
+- 📫 How to reach me: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 #### Technologies & Tools:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
